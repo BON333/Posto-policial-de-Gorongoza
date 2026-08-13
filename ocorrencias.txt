@@ -1,0 +1,11 @@
+AUTO-1;Hussein Faquir;840000000;Desconhecido;false;false;Condução Ilegal;Flagrado a conduzir sem carta na via pública;0.0;Aberto
+AUTO-2;Allan Marreta;821234567;Desconhecido;false;false;Roubo;Assalto na paragem de autocarro com ameaça de arma branca;4500.0;Aberto
+AUTO-3;Maria Tomás;875554321;João Ernesto;true;true;Violência Doméstica;Agressão física e verbal por parte do cônjuge;0.0;Aberto
+AUTO-4;Carlos Mendes;849991112;Desconhecido;false;false;Furto Simples;Arrombamento de loja comercial durante a madrugada;85000.0;Aberto
+AUTO-5;Filomena Dos Santos;823334445;António Muando;true;false;Burla;Fraude em negócio de venda de terreno fictício;120000.0;Aberto
+AUTO-6;Lucas Ndove;847778889;Desconhecido;false;false;Condução sob efeito de Álcool;Acidente de viação ligeiro com danos materiais;35000.0;Fechado
+AUTO-7;Amélia Cossa;861112223;Pedro Sitoe;true;true;Assédio Sexual;Denúncia de comportamento impróprio repetido no local de trabalho;0.0;Descartado
+AUTO-8;Sérgio Matola;845556667;Desconhecido;false;false;Roubo;Subtracção de telemóvel por esticão na via pública;12500.0;Anulado
+AUTO-9;Kennedy;853330698;Desconhecido;false;false;furto;assalto;63000.0;Aberto
+AUTO-10;Cipriano;852349293;Desconhecido;false;false;furto;assaltado na paragem;100.0;Aberto
+AUTO-11;Pedro;823330798;Mario;true;true;furto;o individuo roubou uma galinha;700.0;Anulado
